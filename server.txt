@@ -4,7 +4,7 @@
 Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR red] ******[/COLOR]" URL=""; regex""
 Server:"IPTV 1[COLOR skyblue] 01:[/COLOR]" URL="http://163.172.52.83:8000/get.php?username=testapp&password=testapp&type=m3u"; regex"" 
 Server:"IPTV 2[COLOR skyblue] 02:[/COLOR]" URL="http://basic.ioiptv.com:8000/get.php?username=santi&password=santi&type=m3u"; regex""
-Server:"IPTV 3[COLOR red] 03:[/COLOR]" URL=""; regex""
+Server:"IPTV 3[COLOR lime] 03:[/COLOR]" URL="http://212.8.250.12:25461:8000/get.php?username=carmelo&password=20347&type=m3u"; regex""
 Server:"IPTV 4[COLOR red] 04:[/COLOR]" URL=""; regex""
 Server:"IPTV 5[COLOR red] 05:[/COLOR]" URL=""; regex""
 Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL=""; regex""
@@ -13,3 +13,6 @@ Server:"IPTV 7[COLOR red] 07:[/COLOR]" URL=""; regex""
 
 
 
+http://212.8.250.12:25461/live/carmelo/1234/20347
+
+http://212.8.250.12:25461:8000/get.php?username=carmelo&password=20347&type=m3u
