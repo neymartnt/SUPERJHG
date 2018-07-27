@@ -16,7 +16,7 @@
  <fanart></fanart>
  ]]></listrepeat>
 <expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
-<page>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/server.txt</page>
+<page>https://raw.githubusercontent.com/neymartnt/Jhg5/master/server1.txt</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 
@@ -42,7 +42,7 @@
 <link>http://Ignoreme</link>
 <thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
 <fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/SUPERJHG/master/iptv/iptv.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/iptv1.xml</externallink>	
 </item>  
 
 	
