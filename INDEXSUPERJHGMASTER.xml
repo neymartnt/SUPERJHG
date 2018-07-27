@@ -65,13 +65,7 @@
 	</channel>
 	
 	
-		<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] PROGRAMAS TV [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Programastv.xml</externallink>
-	</channel>
+	
 	
 	<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR blue] MOVISTAR [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
@@ -179,9 +173,9 @@
 
 
  <item>
-        <title>[COLOR green]                                  ARENAVISION[/COLOR]</title>
+        <title>[COLOR green]                               ***[/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/neymartnt/SUPERJHG/master/CINE/videoteca.xml</externallink>
         <thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
         <fanart></fanart>
 </item>
