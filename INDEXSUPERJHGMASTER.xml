@@ -88,7 +88,7 @@
 
 
 	
-<!-------item>
+<item>
 <title>[COLOR red]* [/COLOR][COLOR blue] [/COLOR][COLOR red]  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
@@ -165,7 +165,7 @@
 
 
  <item>
-        <title>[COLOR green]                               ***[/COLOR]</title>
+        <title>[COLOR green]      ***                         ***[/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>https://raw.githubusercontent.com/neymartnt/SUPERJHG/master/CINE/videoteca.xml</externallink>
         <thumbnail>https://pspstation.org/wp-content/uploads/2018/01/arenavision.jpg</thumbnail>
