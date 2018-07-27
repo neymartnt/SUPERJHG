@@ -16,10 +16,10 @@
 	
 	<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR yellow] JOKER [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>http://orig07.deviantart.net/886d/f/2013/019/f/3/joker_full_colored_with_ps_by_zerods111-d5rylbk.png</thumbnail>
-		<fanart>http://orig07.deviantart.net/886d/f/2013/019/f/3/joker_full_colored_with_ps_by_zerods111-d5rylbk.png</fanart>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
 		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/BASE.xml</externallink>
+		<externallink></externallink>
 	</channel>
 	
 	
@@ -86,7 +86,7 @@
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/BASEVIDEOTEC.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/neymartnt/SUPERJHG/master/CINE/videoteca.xml</externallink>
 	</channel>
 	
 	
